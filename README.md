@@ -29,5 +29,5 @@ I'm **Muhammad Irfan Suherman**, an Informatics Engineering Student at Indrapras
 
 ## 📊 GitHub Stats
 
-![Muhammad Irfan Suherman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IrfanSuherman&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanSuherman&layout=compact&theme=dark)
+![Muhammad Irfan Suherman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irfan-gitbash&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-gitbash&layout=compact&theme=dark)
